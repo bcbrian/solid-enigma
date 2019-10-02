@@ -1,0 +1,27 @@
+{
+  "name": "solid-enigma",
+  "version": "1.0.0",
+  "description": "its a calc",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcbrian/solid-enigma.git"
+  },
+  "keywords": [
+    "its",
+    "a",
+    "calc"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bcbrian/solid-enigma/issues"
+  },
+  "homepage": "https://github.com/bcbrian/solid-enigma#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
